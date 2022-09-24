@@ -13,9 +13,9 @@ export default function About() {
             Hi i am <span className="highlight">L</span>ouis{" "}
             <span className="highlight">A</span>ndrie{" "}
             <span className="highlight">Sta</span>.Ana{" "}
-            <span className="highlight">Cruz</span>, an inspiring self taught
-            web developer, building website is my absolute passion and
-            happiness.
+            <span className="highlight">Cruz</span>as aspiring self taught web
+            developer building website is my absolute passion and happiness when
+            i see it live online.
           </p>
           <div className="logos">
             <a href="https://www.facebook.com/LouiTzkie">
