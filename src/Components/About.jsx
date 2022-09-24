@@ -13,7 +13,7 @@ export default function About() {
             Hi i am <span className="highlight">L</span>ouis{" "}
             <span className="highlight">A</span>ndrie{" "}
             <span className="highlight">Sta</span>.Ana{" "}
-            <span className="highlight">Cruz</span>as aspiring self taught web
+            <span className="highlight">Cruz</span> as aspiring self taught web
             developer building website is my absolute passion and happiness when
             i see it live online.
           </p>
