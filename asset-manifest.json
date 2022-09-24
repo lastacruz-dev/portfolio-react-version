@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.eb5b7437.css",
+    "main.js": "/portfolio/static/js/main.80c0bece.js",
+    "static/media/illustration.svg": "/portfolio/static/media/illustration.447b9b47aef8c266f047e609cbf11004.svg",
+    "static/media/easybank.jpg": "/portfolio/static/media/easybank.58d02af29da751c9b6a5.jpg",
+    "static/media/Fylo.jpg": "/portfolio/static/media/Fylo.8fffd77f4847c168b296.jpg",
+    "static/media/Insure.jpg": "/portfolio/static/media/Insure.90f7d5f788519f51ba90.jpg",
+    "static/media/manage.jpg": "/portfolio/static/media/manage.46de1304c225d0f8a45f.jpg",
+    "static/media/Resume.docx": "/portfolio/static/media/Resume.265a820f53ac19631f6e.docx",
+    "static/media/youtube.svg": "/portfolio/static/media/youtube.1ff7fa3d82f723abb206a0c6679a0bd6.svg",
+    "static/media/github.svg": "/portfolio/static/media/github.6f5527af904a6d07092ac30d5da42f01.svg",
+    "static/media/facebook.svg": "/portfolio/static/media/facebook.f51f54a2a1b62b88b16b145f5758bc2d.svg",
+    "index.html": "/portfolio/index.html",
+    "main.eb5b7437.css.map": "/portfolio/static/css/main.eb5b7437.css.map",
+    "main.80c0bece.js.map": "/portfolio/static/js/main.80c0bece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5b7437.css",
+    "static/js/main.80c0bece.js"
+  ]
+}
